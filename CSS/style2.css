@@ -5,3 +5,11 @@ h1{
 .right{
     text-align:right;
 }
+
+#changeFont{
+  font-family: "Shadows Into Light", system-ui;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
