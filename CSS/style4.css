@@ -1,0 +1,31 @@
+body{
+    background-color: #fdffce;
+}
+
+div{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: white;
+    width: 900px;
+}
+
+div .Ipsum{
+    background-color: coral;
+}
+
+div .survived{
+    background-color: yellow;
+}
+
+.div2{
+    border: 2px dashed black;
+}
+.div2 div{
+    border: 2px dashed red;
+    width: 90%;
+}
+
+.div3{
+    color :purple 
+}
