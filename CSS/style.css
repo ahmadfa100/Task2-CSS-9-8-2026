@@ -7,15 +7,14 @@ p span {
 }
 
 .p3 {
-    background-image: url("https://png.pngtree.com/png-vector/20230124/ourmid/pngtree-red-text-box-background-decoration-png-image_6572713.png");
+    background-image: url("https://media.istockphoto.com/id/1257951336/photo/transparent-umbrella-under-rain-against-water-drops-splash-background-rainy-weather-concept.jpg?s=612x612&w=0&k=20&c=lNvbIw1wReb-owe7_rMgW8lZz1zElqs5BOY1AZhyRXs=");
 
-    width: 300px;
-    height: 150px;
+    width: 700px;
+    height: 170px;
+    color:white;
+    background-color: black;
 
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color :black
-    
+ 
+
 
 }
